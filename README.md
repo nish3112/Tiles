@@ -1,6 +1,11 @@
 # tiles_2
 
 A new Flutter project.
+An app where you can share your socials
+
+<img src = "https://github.com/nish3112/Tiles/blob/main/Tiles%20Screenshot/Screenshot_1631029458.png" height="920" width ="600">
+<img src = "https://github.com/nish3112/Tiles/blob/main/Tiles%20Screenshot/Screenshot_1631029460.png" height="920" width ="600">
+<img src = "https://github.com/nish3112/Tiles/blob/main/Tiles%20Screenshot/Screenshot_1631029462.png" height="920" width ="600">
 
 ## Getting Started
 
